@@ -34,6 +34,6 @@
   "servidores": [],
   "aviso": "",
 
-  "_tema_remoto_url": "Endereço do painel (termina em /config). Quando preenchido, o app busca servidores, imagens, cores e aviso de lá.",
+  "_tema_remoto_url": "https://painelrexx.pixdorexx.workers.dev/",
   "tema_remoto_url": ""
 }
