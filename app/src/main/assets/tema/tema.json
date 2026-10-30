@@ -1,0 +1,39 @@
+{
+  "_ajuda": "Cada imagem pode ser o NOME de um arquivo nesta pasta (assets/tema) ou uma URL começando com http:// ou https://",
+
+  "nome_app": "Meu IPTV",
+
+  "fundo_login": "fundo_login.jpg",
+  "fundo_home": "fundo_home.jpg",
+  "fundo_listas": "fundo_listas.jpg",
+
+  "logo": "logo.png",
+  "icone_tv": "icone_tv.png",
+  "icone_filmes": "icone_filmes.png",
+  "icone_series": "icone_series.png",
+  "icone_sair": "icone_sair.png",
+  "icone_atualizar": "icone_atualizar.png",
+  "icone_config": "icone_config.png",
+  "icone_player": "icone_player.png",
+  "icone_continuar": "icone_continuar.png",
+  "icone_formato": "icone_formato.png",
+  "icone_conta": "icone_conta.png",
+  "imagem_padrao": "sem_imagem.png",
+
+  "cor_primaria": "#E50914",
+  "cor_texto": "#FFFFFF",
+  "cor_cartao": "#CC1E1E28",
+  "cor_selecionada": "#FFC107",
+  "escurecer_fundo": 0.45,
+
+  "_formato_live": "Formato inicial da TV ao vivo (ts ou m3u8). O usuário pode trocar em Configurações.",
+  "formato_live": "ts",
+  "user_agent": "IPTVSmartersPlayer",
+
+  "_servidores": "Lista de DNS (opcional). Normalmente vem do painel. Exemplo: [\"http://servidor1.com:8080\", \"http://servidor2.com\"]. Vazia + sem painel = o cliente digita o DNS.",
+  "servidores": [],
+  "aviso": "",
+
+  "_tema_remoto_url": "Endereço do painel (termina em /config). Quando preenchido, o app busca servidores, imagens, cores e aviso de lá.",
+  "tema_remoto_url": ""
+}

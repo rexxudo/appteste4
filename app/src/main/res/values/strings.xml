@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nome que aparece embaixo do ícone no celular/TV -->
+    <string name="app_name">Meu IPTV</string>
+</resources>
